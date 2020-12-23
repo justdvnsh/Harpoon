@@ -1,7 +1,8 @@
-package divyansh.tech.harpoon
+package divyansh.tech.harpoon.views.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import divyansh.tech.harpoon.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
